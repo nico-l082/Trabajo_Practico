@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        
+        /*
         Persona persona = new Persona("Juan", 30, "male");
         Bloque bloque = new Bloque(3, 4, 5);
         Barco barco = new Barco(100, 50);
@@ -29,5 +29,8 @@ class Program
         Console.WriteLine($"The block surface area is: { bloque.ObtenerAreaSuperficie() }");
 
         Console.WriteLine("\n---------------------------------------------------------------------\n");
+        */
+
+
     }
 }
